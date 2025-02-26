@@ -1,7 +1,6 @@
-# SR2MP
-Multiplayer mod for Slime Rancher 2
+# SlimeMP
+Multiplayer mod for Slime Rancher 2 with Proton PUN.
 
-Discord server: https://discord.gg/JY8zDTuaGW
+This is a rewrite of the mod [SR2MP](https://github.com/Egor935/SR2MP) that uses the Proton Network for crossplatform and performance reasons.
 
-Tutorial how to make multiplayer on unity by Tom Weiland:
-https://www.youtube.com/playlist?list=PLXkn83W0QkfnqsK8I0RAz5AbUxfg3bOQ5
+The original mod creator is [Egor_Ice](https://github.com/Egor935).
